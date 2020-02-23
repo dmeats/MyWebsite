@@ -1,0 +1,304 @@
+.Left-Container{
+position: absolute;
+display: flex;
+flex-direction: column;
+padding: 15px;
+top: 64px;
+height: 670px;
+width: 200px;
+background-image:url('../../Assets/leather.png');
+}
+
+.Left-rail {
+    
+position: absolute;
+
+ background-image: linear-gradient(90deg, rgb(245, 220, 1),rgb(192, 127, 29),rgb(36, 13, 2),rgb(255, 81, 0), rgb(255, 0, 0),rgb(243, 207, 3),rgb(243, 207, 3));
+    top:64px;
+    left:228px;
+    width: 13px;
+    height: 700px;
+    
+ }
+ a {
+    color: rgb(246, 244, 134);
+    font-size: 20px;
+  }
+
+ .Project-link{
+     position: absolute;
+     background-color: transparent;
+     font-family: fantasy;
+     top: 76px;
+     left: 55px;
+     z-index: 1;
+ }
+ .indicator1blue{
+  position: absolute;
+ background-image: linear-gradient(rgb(231, 228, 201),rgb(145, 219, 213),rgb(94, 171, 190),rgb(133, 148, 182), rgb(94, 139, 243),rgb(81, 88, 129),rgb(47, 44, 70));
+  border-style: solid;
+  border-color: gold;
+  border-width: 3px;
+  border-radius: 50%;
+  height :20px;
+  width :20px;
+  top: 76px;
+  left: 170px;
+  z-index: 4;
+ }
+ .indicator1yellow{
+  position: absolute;
+  background-image: linear-gradient(rgb(231, 228, 201),rgb(145, 219, 213),rgb(238, 236, 128),rgb(236, 218, 112), rgb(224, 214, 75),rgb(151, 175, 46),rgb(115, 122, 5));
+  border-style: solid;
+  border-color: gold;
+  border-width: 3px;
+  border-radius: 50%;
+  height :20px;
+  width :20px;
+  top: 76px;
+  left: 170px;
+  z-index: 4;
+ }
+ .indicator2blue{
+  position: absolute;
+  background-image: linear-gradient(rgb(231, 228, 201),rgb(145, 219, 213),rgb(94, 171, 190),rgb(133, 148, 182), rgb(94, 139, 243),rgb(81, 88, 129),rgb(47, 44, 70));
+  border-style: solid;
+  border-color: gold;
+  border-width: 3px;
+  border-radius: 50%;
+  height :20px;
+  width :20px;
+  top: 309px;
+  left: 170px;
+  z-index: 4;
+ }
+ .indicator2yellow{
+  position: absolute;
+  background-image: linear-gradient(rgb(231, 228, 201),rgb(145, 219, 213),rgb(238, 236, 128),rgb(236, 218, 112), rgb(224, 214, 75),rgb(151, 175, 46),rgb(115, 122, 5));
+  border-style: solid;
+  border-color: gold;
+  border-width: 3px;
+  border-radius: 50%;
+  height :20px;
+  width :20px;
+  top: 309px;
+  left: 170px;
+  z-index: 4;
+ }
+ .indicator3blue{
+  position: absolute;
+  background-image: linear-gradient(rgb(231, 228, 201),rgb(145, 219, 213),rgb(94, 171, 190),rgb(133, 148, 182), rgb(94, 139, 243),rgb(81, 88, 129),rgb(47, 44, 70));
+  border-style: solid;
+  border-color: gold;
+  border-width: 3px;
+  border-radius: 50%;
+  height :20px;
+  width :20px;
+  top: 567px;
+  left: 170px;
+  z-index: 4;
+ }
+.indicator3yellow{
+  position: absolute;
+  background-image: linear-gradient(rgb(231, 228, 201),rgb(145, 219, 213),rgb(238, 236, 128),rgb(236, 218, 112), rgb(224, 214, 75),rgb(151, 175, 46),rgb(115, 122, 5));
+  border-style: solid;
+  border-color: gold;
+  border-width: 3px;
+  border-radius: 50%;
+  height :20px;
+  width :20px;
+  top: 567px;
+  left: 170px;
+  z-index: 4;
+ }
+ .Skills-link{
+    position: absolute;
+    background-color: transparent;
+    font-family: fantasy;
+    top: 309px;
+    left: 69px;
+   
+    z-index: 1;
+}
+.Contact-link{
+    position: absolute;
+    background-color: transparent;
+    font-family: fantasy;
+    top: 567px;
+    left: 51px;
+    z-index: 1;
+    
+}
+ .LargeGear{
+    width : 150px;
+    height : 150px;
+    animation: LargeGear 53s infinite linear;
+ }
+ @keyframes LargeGear {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+  .LargeGear2{
+      position: absolute;
+      top:250px;
+    width : 150px;
+    height : 150px;
+    animation: LargeGear2 53s infinite linear;
+ }
+ @keyframes LargeGear2 {
+    from {
+      transform: rotate(-0deg);
+    }
+    to {
+      transform: rotate(-359deg);
+    }
+  }
+  .LargeGear3{
+    position: absolute;
+    top:508px;
+    left:10px;
+  width : 150px;
+  height : 150px;
+  animation: LargeGear3 53s infinite linear;
+}
+@keyframes LargeGear3 {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+ .SprogetGear1{
+    position: absolute;
+    top:156px;
+    left: 85px;
+    width : 120px;
+    height : 120px;
+    animation: SprogetGear1 32s infinite linear;
+ }
+ @keyframes SprogetGear1 {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+  .SprogetGear2{
+    position: absolute;
+    top:142px;
+    left: 3px;
+    width : 100px;
+    height : 100px;
+    animation: SprogetGear2 32s infinite linear;
+ }
+ @keyframes SprogetGear2 {
+    from {
+      transform: rotate(-0deg);
+    }
+    to {
+      transform: rotate(-359deg);
+    }
+  }
+  .SprogetGear3{
+    position: absolute;
+    top:422px;
+    left: 80px;
+    width : 120px;
+    height : 120px;
+    animation: SprogetGear3 29.5s infinite linear;
+ }
+ @keyframes SprogetGear3 {
+    from {
+      transform: rotate(-0deg);
+    }
+    to {
+      transform: rotate(-359deg);
+    }
+  }
+  .SprogetGear4{
+    position: absolute;
+    top:380px;
+    left: 2px;
+    width : 105px;
+    height : 105px;
+    animation: SprogetGear4 29.5s infinite linear;
+ }
+ @keyframes SprogetGear4 {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+ .VerySmallGear1{
+     position: absolute;
+    top:112px;
+    left: 130px;
+    width : 65px;
+    height : 65px;
+    animation: VerySmallGear1 14s infinite linear;
+ }
+ @keyframes VerySmallGear1 {
+    from {
+      transform: rotate(-0deg);
+    }
+    to {
+      transform: rotate(-359deg);
+    }
+  }
+  .VerySmallGear2{
+    position: absolute;
+   top:224px;
+   left: 8px;
+   width : 65px;
+   height : 65px;
+   animation: VerySmallGear2 14s infinite linear;
+}
+@keyframes VerySmallGear2 {
+   from {
+     transform: rotate(0deg);
+   }
+   to {
+     transform: rotate(359deg);
+   }
+ }
+ .VerySmallGear3{
+    position: absolute;
+   top:380px;
+   left: 85px;
+   width : 65px;
+   height : 65px;
+   animation: VerySmallGear2 14s infinite linear;
+}
+@keyframes VerySmallGear3 {
+   from {
+     transform: rotate(0deg);
+   }
+   to {
+     transform: rotate(359deg);
+   }
+ }
+ 
+ .VerySmallGear4{
+    position: absolute;
+   top:465px;
+   left: 9px;
+   width : 65px;
+   height : 65px;
+   animation: VerySmallGear4 15s infinite linear;
+}
+@keyframes VerySmallGear4 {
+   from {
+     transform: rotate(-0deg);
+   }
+   to {
+     transform: rotate(-359deg);
+   }
+ }
