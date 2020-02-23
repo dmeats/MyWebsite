@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/MyWebsite/static/css/main.b7691bc9.chunk.css",
+    "main.js": "/MyWebsite/static/js/main.4769526b.chunk.js",
+    "main.js.map": "/MyWebsite/static/js/main.4769526b.chunk.js.map",
+    "runtime-main.js": "/MyWebsite/static/js/runtime-main.8f3c48ed.js",
+    "runtime-main.js.map": "/MyWebsite/static/js/runtime-main.8f3c48ed.js.map",
+    "static/js/2.2f28d137.chunk.js": "/MyWebsite/static/js/2.2f28d137.chunk.js",
+    "static/js/2.2f28d137.chunk.js.map": "/MyWebsite/static/js/2.2f28d137.chunk.js.map",
+    "index.html": "/MyWebsite/index.html",
+    "precache-manifest.58c1183cd9cda8b15e2cce7feceaab82.js": "/MyWebsite/precache-manifest.58c1183cd9cda8b15e2cce7feceaab82.js",
+    "service-worker.js": "/MyWebsite/service-worker.js",
+    "static/css/main.b7691bc9.chunk.css.map": "/MyWebsite/static/css/main.b7691bc9.chunk.css.map",
+    "static/media/Digital-Dash-Detail1.png": "/MyWebsite/static/media/Digital-Dash-Detail1.9da17d2d.png",
+    "static/media/Projects.css": "/MyWebsite/static/media/solar.a7acb658.png",
+    "static/media/Gear_sproget.png": "/MyWebsite/static/media/Gear_sproget.1794e7e0.png",
+    "static/media/Skills.css": "/MyWebsite/static/media/Skills2.73408e8e.png",
+    "static/media/Veg.png": "/MyWebsite/static/media/Veg.0a1d31b0.png",
+    "static/media/Contact.css": "/MyWebsite/static/media/Woodtexture.7cc09ff7.png",
+    "static/media/gears5.mp3": "/MyWebsite/static/media/gears5.b9d3c85e.mp3",
+    "static/media/large_Gear.png": "/MyWebsite/static/media/large_Gear.fe47d6a4.png",
+    "static/media/LeftSideBar.css": "/MyWebsite/static/media/leather.d9b7d878.png",
+    "static/media/LandingPage.css": "/MyWebsite/static/media/rivitmetal3.460d314e.png",
+    "static/media/selector3.mp3": "/MyWebsite/static/media/selector3.1be8c1b6.mp3",
+    "static/media/steam1.mp3": "/MyWebsite/static/media/steam1.225b99b8.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f3c48ed.js",
+    "static/js/2.2f28d137.chunk.js",
+    "static/css/main.b7691bc9.chunk.css",
+    "static/js/main.4769526b.chunk.js"
+  ]
+}
